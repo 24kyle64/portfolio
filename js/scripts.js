@@ -13,7 +13,7 @@ $(document).ready(function(){
 	   
 	    $.backstretch("img/wood.jpg");
 
-	 
+	 $('.image-link').magnificPopup({type:'image'});
 	
 
 	$("#bose").capslide({
